@@ -1,0 +1,21 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.container {
+    max-width: 800px;
+}
+
+#greeting {
+    font-size: 1.2rem;
+    min-height: 30px;
+}
+
+.btn-primary {
+    min-width: 100px;
+}
+
+input {
+    max-width: 300px;
+    margin: 0 auto;
+}
